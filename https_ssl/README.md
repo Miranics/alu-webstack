@@ -1,5 +1,5 @@
 # HTTPS SSL
-![http vs https](image.png)
+![https vs http](image.png)
                         
  How Does HTTPS Work?
  
