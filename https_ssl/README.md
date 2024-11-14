@@ -54,4 +54,3 @@ The owner shares the public key with anyone who needs it. Other users need the p
 
 The security during the transfer is called the Secure Sockets Layer (SSL) and Transport Layer Security (TLS).
 
-The procedure for exchanging public keys using SSL Certificate to enable HTTPS, SSL and TLS is called Public Key Infrastructure (PKI).
